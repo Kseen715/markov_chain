@@ -24,6 +24,13 @@ or, on Linux:
 ```
 sh test_py.sh
 ```
+<details>
+<summary>CLOC</summary>
+
+To install **cloc**, run, on Windows:
+```
+choco install cloc
+```
 
 To perform **cloc**, run, on Windows:
 ```
@@ -33,3 +40,5 @@ or, on Linux:
 ```
 sh cloc_py.sh
 ```
+
+</details>

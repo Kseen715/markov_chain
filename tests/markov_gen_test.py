@@ -1,4 +1,4 @@
-from ..source.markovsky_gen import *
+from ..source.markov_gen import *
 from pytest import raises
 
 
