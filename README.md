@@ -16,6 +16,10 @@ python pip install -r requirements.txt
 
 Scripts
 -------
+Click to expand:
+<details>
+<summary>pytest</summary>
+
 To perform **pytest**, run, on Windows:
 ```
 test_py.bat
@@ -24,6 +28,7 @@ or, on Linux:
 ```
 sh test_py.sh
 ```
+</details>
 <details>
 <summary>CLOC</summary>
 
@@ -31,8 +36,7 @@ To install **cloc**, run, on Windows:
 ```
 choco install cloc
 ```
-
-To perform **cloc**, run, on Windows:
+To perform **cloc** for this code, run, on Windows:
 ```
 cloc_py.bat
 ```
@@ -40,5 +44,4 @@ or, on Linux:
 ```
 sh cloc_py.sh
 ```
-
 </details>
